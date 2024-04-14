@@ -1,0 +1,66 @@
+body {
+    display:inline-block;
+
+}
+
+h2 {
+    margin: auto;
+}
+
+aside {
+    display:inline-block;
+
+}
+
+span {
+    display:inline-block;
+    vertical-align: top
+}
+
+#searchBox {
+    height: 70vh;
+    width: 20vw;
+    background-color:aquamarine;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#searchBar {
+    height: auto;
+    border: 2px solid red;
+}
+
+#searchBar input {
+    width: 18vw;
+}
+
+#searchBar div {
+    text-align: center;
+    height: auto;
+}
+
+#searchBar div button {
+    width: 10vw;
+}
+
+#recentSearches {
+    height: 30vh;
+    border: 2px solid black;
+}
+
+#weatherContent {
+    height: 30vh;
+    width: 60vw;
+    background-color:red;
+    margin: auto;
+}
+
+#fiveDayForecast {
+    height: 30vh;
+    width: 60vw;
+    background-color: blue;
+    margin: auto;
+    display: flex;
+}
