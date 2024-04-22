@@ -9,8 +9,7 @@ Clicking on a city in the search history allows you to view current and future w
 modal base from w3schools
 
 # deployed app
-
+https://asupt.github.io/5-day-weather-forecast/
 
 # images
-![ScreenShot](assets/images/newPost.png)
-![ScreenShot](assets/images/blog.png)
+![ScreenShot](assets/images/webpage.png)
